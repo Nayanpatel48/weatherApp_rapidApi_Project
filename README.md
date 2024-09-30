@@ -1,6 +1,7 @@
 <div align="center" dir="auto">
   <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
-    <img alt="Ktor logo" src="https://raw.githubusercontent.com/ktorio/ktor/main/.github/images/ktor-logo-for-light.svg" style="visibility:visible;max-width:100%;">
+    <img alt="Ktor logo" src="![image_md1](https://github.com/user-attachments/assets/8f9151ed-00d2-4776-b954-3a5124514446)
+" style="visibility:visible;max-width:100%;">
   </picture></themed-picture>
 </div>
 <p dir="auto"><a href="https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub" rel="nofollow"><img src="https://camo.githubusercontent.com/1c0c0252ba920d6cc814633ecba4ed6565e277ed2fd175cbdd8061342b99c4bc/687474703a2f2f6a622e67672f6261646765732f6f6666696369616c2e737667" alt="Official JetBrains project" data-canonical-src="http://jb.gg/badges/official.svg" style="max-width: 100%;"></a>
