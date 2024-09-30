@@ -1,0 +1,122 @@
+{
+  "location": {
+    "city": "London",
+    "woeid": 44418,
+    "country": "United Kingdom",
+    "lat": 51.506401,
+    "long": -0.12721,
+    "timezone_id": "Europe/London"
+  },
+  "current_observation": {
+    "pubDate": 1727622555,
+    "wind": {
+      "chill": 49,
+      "direction": "SE",
+      "speed": 18
+    },
+    "atmosphere": {
+      "humidity": 58,
+      "visibility": 21,
+      "pressure": 1018.3
+    },
+    "astronomy": {
+      "sunrise": "6:59 AM",
+      "sunset": "6:41 PM"
+    },
+    "condition": {
+      "temperature": 56,
+      "text": "Cloudy",
+      "code": 26
+    }
+  },
+  "forecasts": [
+    {
+      "day": "Sun",
+      "date": 1727625600,
+      "high": 60,
+      "low": 53,
+      "text": "Scattered Showers",
+      "code": 45
+    },
+    {
+      "day": "Mon",
+      "date": 1727712000,
+      "high": 62,
+      "low": 52,
+      "text": "Showers",
+      "code": 11
+    },
+    {
+      "day": "Tue",
+      "date": 1727798400,
+      "high": 62,
+      "low": 54,
+      "text": "Showers",
+      "code": 11
+    },
+    {
+      "day": "Wed",
+      "date": 1727884800,
+      "high": 62,
+      "low": 51,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Thu",
+      "date": 1727971200,
+      "high": 63,
+      "low": 50,
+      "text": "Partly Cloudy",
+      "code": 30
+    },
+    {
+      "day": "Fri",
+      "date": 1728057600,
+      "high": 64,
+      "low": 50,
+      "text": "Mostly Cloudy",
+      "code": 28
+    },
+    {
+      "day": "Sat",
+      "date": 1728144000,
+      "high": 63,
+      "low": 55,
+      "text": "Rain",
+      "code": 12
+    },
+    {
+      "day": "Sun",
+      "date": 1728230400,
+      "high": 61,
+      "low": 48,
+      "text": "Rain",
+      "code": 12
+    },
+    {
+      "day": "Mon",
+      "date": 1728316800,
+      "high": 61,
+      "low": 45,
+      "text": "Sunny",
+      "code": 32
+    },
+    {
+      "day": "Tue",
+      "date": 1728403200,
+      "high": 58,
+      "low": 46,
+      "text": "Mostly Cloudy",
+      "code": 28
+    },
+    {
+      "day": "Wed",
+      "date": 1728489600,
+      "high": 58,
+      "low": 48,
+      "text": "Partly Cloudy",
+      "code": 30
+    }
+  ]
+}
