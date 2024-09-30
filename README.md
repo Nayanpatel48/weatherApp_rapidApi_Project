@@ -1,3 +1,9 @@
+<div align="center" dir="auto">
+  <themed-picture data-catalyst-inline="true" data-catalyst=""><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ktorio/ktor/main/.github/images/ktor-logo-for-dark.svg">
+    <img alt="Ktor logo" src="https://raw.githubusercontent.com/ktorio/ktor/main/.github/images/ktor-logo-for-light.svg" style="visibility:visible;max-width:100%;">
+  </picture></themed-picture>
+</div>
 <p dir="auto"><a href="https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub" rel="nofollow"><img src="https://camo.githubusercontent.com/1c0c0252ba920d6cc814633ecba4ed6565e277ed2fd175cbdd8061342b99c4bc/687474703a2f2f6a622e67672f6261646765732f6f6666696369616c2e737667" alt="Official JetBrains project" data-canonical-src="http://jb.gg/badges/official.svg" style="max-width: 100%;"></a>
 <a href="https://mvnrepository.com/artifact/io.ktor" rel="nofollow"><img src="https://camo.githubusercontent.com/a6921eee7e704ddfecbedf6788ce4125555206ae55d2e388530854bb9ef74ada/68747470733a2f2f696d672e736869656c64732e696f2f6d6176656e2d63656e7472616c2f762f696f2e6b746f722f6b746f72" alt="Maven Central" data-canonical-src="https://img.shields.io/maven-central/v/io.ktor/ktor" style="max-width: 100%;"></a>
 <a href="http://kotlinlang.org" rel="nofollow"><img src="https://camo.githubusercontent.com/fd41929387acecfa1a9676ed10e9fffcb1cc8e17d19756ae958b470e564f4824/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b6f746c696e2d312e382e32322d626c75652e7376673f6c6f676f3d6b6f746c696e" alt="Kotlin" data-canonical-src="https://img.shields.io/badge/kotlin-1.8.22-blue.svg?logo=kotlin" style="max-width: 100%;"></a>
